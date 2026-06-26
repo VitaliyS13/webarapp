@@ -34,8 +34,10 @@ project/<br>
 ## 📊 Маркери для тестування
 
 Для тестування роботи застосунку відкрийте зображення маркерів на екрані іншого пристрою або роздрукуйте їх на папері:
-* **Hiro Marker:** [Посилання на зображення](https://raw.githubusercontent.com/AR-js-org/AR.js/master/data/images/HIRO.jpg)
-* **Kanji Marker:** [Посилання на зображення](https://raw.githubusercontent.com/AR-js-org/AR.js/master/data/images/KANJI.jpg)
+* **Hiro Marker:**<br> <img width="581" height="581" alt="image" src="https://github.com/user-attachments/assets/20079889-3a42-4fc7-bd56-f3ac5889f6eb" />
+
+* **Kanji Marker:**<br> <img width="473" height="471" alt="image" src="https://github.com/user-attachments/assets/5fb61222-0aca-4550-bb93-58e72fe192ed" />
+
 
 ---
 Посилання на застосунок: https://vitaliys13.github.io/webarapp/ 
